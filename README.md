@@ -39,7 +39,7 @@ tecnologías y herramientas de desarrollo haciendo uso de buenas prácticas.
 Todos mis proyectos se encuentran publicados en GitHub, a continuación podrás ver algunos: 
 
 - [IntraRuk](https://github.com/) - Este proyecto nace a partir de la necesidad de implementar una aplicación web moderna para gestionar todos los procesos que se realizaban manualmente en una tienda especializada en mascotas.
-- [Portafolio](https://github.com/) - Proyecto personal donde puse en práctica mi conocimiento adquirido para crear un portafolio profesional bien detallado y agradable a la vista.
+- [Portafolio](https://github.com/joanbolivar/portafolio) - Proyecto personal donde puse en práctica mi conocimiento adquirido para crear un portafolio profesional bien detallado y agradable a la vista.
 
 
 ## 🔗 Links
