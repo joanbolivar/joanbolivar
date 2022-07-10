@@ -45,7 +45,7 @@ Todos mis proyectos se encuentran publicados en GitHub, a continuación podrás 
 ## 🔗 Links
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joanbolivar/)
 
-[![linkedin](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://www.linkedin.com/in/joanbolivar/)
+[![linkedin](https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=573217576548)
 
 [![portfolio](https://img.shields.io/badge/portafolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://joanbolivar.netlify.app/)
 
