@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=joanbolivar&label=Visitas)
 
 
-Soy 👩‍💻‍ desarrollador Full-Stack Junior, apasionado por las
+Soy 👩‍💻‍ desarrollador, apasionado por las
 tecnologías web y la creación de proyectos. 
 
 
